@@ -1,0 +1,15 @@
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\bin\Debug\net5.0\OnlineLezzetler.Data.deps.json
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\bin\Debug\net5.0\OnlineLezzetler.Data.runtimeconfig.json
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\bin\Debug\net5.0\OnlineLezzetler.Data.runtimeconfig.dev.json
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\bin\Debug\net5.0\OnlineLezzetler.Data.dll
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\bin\Debug\net5.0\OnlineLezzetler.Data.pdb
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\obj\Debug\net5.0\OnlineLezzetler.Data.csproj.AssemblyReference.cache
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\obj\Debug\net5.0\OnlineLezzetler.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\obj\Debug\net5.0\OnlineLezzetler.Data.AssemblyInfoInputs.cache
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\obj\Debug\net5.0\OnlineLezzetler.Data.AssemblyInfo.cs
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\obj\Debug\net5.0\OnlineLezzetler.Data.csproj.CoreCompileInputs.cache
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\obj\Debug\net5.0\OnlineLezzetler.Data.dll
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\obj\Debug\net5.0\refint\OnlineLezzetler.Data.dll
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\obj\Debug\net5.0\OnlineLezzetler.Data.pdb
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\obj\Debug\net5.0\OnlineLezzetler.Data.genruntimeconfig.cache
+C:\Users\SametKostak\source\repos\OnlineLezzetler\OnlineLezzetler.Data\obj\Debug\net5.0\ref\OnlineLezzetler.Data.dll
